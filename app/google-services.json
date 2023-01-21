@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90008681612",
+    "project_id": "agenda-1ea5a",
+    "storage_bucket": "agenda-1ea5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90008681612:android:7a7630c49d073dcaf4cfa9",
+        "android_client_info": {
+          "package_name": "com.rsudanta.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90008681612-k9huksi2u2aifjubhjllqf2ekk3e3n95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxzRNGEH6i14sCSFSeZflp_42E3NuSEeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90008681612-k9huksi2u2aifjubhjllqf2ekk3e3n95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
